@@ -1,0 +1,6 @@
+{
+  "name": "ScholarForge - AI Research Paper Assistant",
+  "description": "Comprehensive academic research paper assistant agent utilizing few-shot prompting to analyze topics, plan outlines, synthesize literature reviews with real citations, and generate structured academic manuscripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
